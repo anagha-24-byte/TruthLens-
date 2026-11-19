@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens AI",
+  "description": "Multimodal Digital Forensics and Deepfake Detection Platform — See Beyond the Surface. Verify What You Trust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
